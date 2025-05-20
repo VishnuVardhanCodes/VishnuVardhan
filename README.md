@@ -1,4 +1,4 @@
 # VishnuVardhan
 This is my first git repository.
 <br>
-Author- Vishnu Vardhan
+Author- Vishnu Vardhan (Student)
